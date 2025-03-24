@@ -1,4 +1,7 @@
 ## Hi there 👋
+import logo from "super-tiny-icons/images/svg/github.svg";
+
+<img src={Python} />;
 
 <!--
 **Joetommy/Joetommy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
