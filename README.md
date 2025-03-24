@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<img src="./node_modules/super-tiny-icons/images/svg/ubuntu.svg" />
-
+![Ubuntu Icon](assets/ubuntu.svg)
 <!--
 **Joetommy/Joetommy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
