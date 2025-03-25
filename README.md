@@ -1,6 +1,12 @@
 ## Hi there 👋
+Im JT
 
-![Ubuntu Icon](assets/ubuntu.svg)
+<img src="https://github.com/user-attachments/assets/8624827d-1f99-4f97-9fa9-b07a70a8bcf7" alt="ubuntu" width="25">
+<img src="https://github.com/user-attachments/assets/4c8d6d12-c2b1-4dde-a9eb-08e4e3bbe31a" alt="swift" width="25">
+<img src="https://github.com/user-attachments/assets/af7d7f8d-4835-4282-819e-b35e1b18e3ec" alt="sublime" width="25">
+<img src="https://github.com/user-attachments/assets/2e8e46f3-a81c-4ea6-a554-d1e2d3e561f8" alt="steam" width="25">
+<img src="https://github.com/user-attachments/assets/582ee524-36a9-4863-9103-77d25e764c17" alt="safari" width="25">
+
 <!--
 **Joetommy/Joetommy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
